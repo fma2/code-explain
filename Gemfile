@@ -39,3 +39,4 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'purecss-rails'
+gem 'alchemy-api-rb', :require => 'alchemy_api'
