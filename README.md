@@ -1,4 +1,4 @@
 code-explain
 ============
 
-Your or someone else's code--explained
+Get the internet to explain someone else's code to you.
